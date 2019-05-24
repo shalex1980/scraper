@@ -1,0 +1,24 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shalex1980/scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shalex1980/scraper/issues"
+  },
+  "homepage": "https://github.com/shalex1980/scraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "needle": "^2.4.0",
+    "request": "^2.88.0"
+  }
+}
